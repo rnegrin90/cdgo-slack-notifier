@@ -1,0 +1,7 @@
+configparser==3.5.0
+croniter==0.3.14
+decorator==4.0.10
+iso8601==0.1.11
+requests==2.12.4
+python-dateutil==2.6.0
+schedule==0.4.2
